@@ -24,7 +24,7 @@
 
 - Lib/ สมองของระบบ (คลาสตามไดอะแกรม)
 - GUI/ หน้าจอ
-- App.java เทส logic
+- IMG_9479.png ดีไซน์ภาพรวม
 - Perfect_Final.drawio.png คลาสไดอะแกรม
 
 วิธีรันใน IDE: เปิดโฟลเดอร์นี้ แล้วรันคลาส GUI.DashboardUI
